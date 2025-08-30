@@ -1,0 +1,20 @@
+{
+  "target_event": {
+    "url": "https://shows.cityline.com/tc/2025/hklaughfestival.html"
+  },
+  "ticket_preferences": {
+    "quantity": 3,
+    "preferred_zones": ["C/$348"]
+  },
+  "purchase_settings": {
+    "auto_purchase": true,
+    "max_wait_time": 300
+  },
+  "browser_config": {
+    "headless": false,
+    "page_timeout": 30
+  },
+  "notifications": {
+    "success_message": "🎉 购票成功！门票已预订"
+  }
+}
